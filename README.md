@@ -4,13 +4,18 @@
         <h2 align="center" style="margin-top:50px"> Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
         <br><br>Team ID: PNT2022TMID40006</h2>
 <h3>Team Members:<br>
-511519104020 - MOHAMMED ARIF K<br>
-511519104019 - MADHAVAN NK<br>
-511519104702 - VARUN P<br>
-511519104707 - JAYA SOORYA E<h3>
+511519104020 - MOHAMMED ARIF K - [Team Leader]<br>
+511519104019 - MADHAVAN NK  -  [Team Member 1]<br>
+511519104702 - VARUN P - [Team Member 2]<br>
+511519104707 - JAYA SOORYA E - [Team Member 3]<h3>
     </div>
  
 ## Tasks Completed 
+- Assignments
+    -  [x] Assignment 1 <br>
+    -  [x] Assignment 2  <br>    
+    -  [x] Assignment 3  <br> 
+    -  [x] Assignment 4  <br> 
 - Project Objectives
     - [x] Project Objective<br>
 - Project Workflow
@@ -52,11 +57,6 @@
     - [x] Sprint 2<br>
     - [x] Sprint 3<br>
     - [x] Sprint 4<br>
-- Assignments
-    -  [x] Assignment 1 <br>
-    -  [x] Assignment 2  <br>    
-    -  [x] Assignment 3  <br> 
-    -  [x] Assignment 4  <br> 
 <br>
  
 

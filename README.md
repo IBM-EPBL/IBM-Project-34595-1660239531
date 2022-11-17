@@ -17,6 +17,18 @@
     - [x] Project Workflow<br>
 - Pre-requisites
     - [x] Pre-requisites<br>
+- Data Collection
+    - [x] Download the dataset<br>
+- Data Preprocessing
+    - [x] Import Required Libraries<br>
+    - [x] Read the Datasets<br>
+    - [x] Check Null Values<br>
+    - [x] Removing Null Values<br>
+    - [x] Handling Null Values<br>
+- Model Building 
+    - [x] Separating Independent and Dependent Variables<br>
+    - [x] Splitting Data into Train and Test<br>
+    - [x] Applying Linear Regression<br>
 - Planning & Design
     - Ideation Phase
         -  [x] Brainstorming - Idea Generation - Prioritization<br>
@@ -35,6 +47,11 @@
     - Project Planning
         - [x] Milestone & Activity List<br>
         - [x] Sprint Delivery Plan<br>
+- Project Development Phase
+    - [x] Sprint 1<br>
+    - [x] Sprint 2<br>
+    - [x] Sprint 3<br>
+    - [x] Sprint 4<br>
 - Assignments
     -  [x] Assignment 1 <br>
     -  [x] Assignment 2  <br>    

@@ -57,6 +57,11 @@
     - [x] Sprint 2<br>
     - [x] Sprint 3<br>
     - [x] Sprint 4<br>
+- Final Deliverables
+    - [x] Final code<br>
+    - [x] Project Report<br>
+    - [x] Demonstation video link<br>
+    - [x] Datasets 
 <br>
  
 
